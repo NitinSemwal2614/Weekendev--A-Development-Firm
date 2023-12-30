@@ -183,15 +183,15 @@
 
 .footer-social {
     text-align: center;
-    margin-top: 20px;
-    margin-left: -60%;
+    margin-top: -90px;
+    margin-left: -40%;
 }
 
 .social-icons {
     list-style: none;
     padding: 0;
     margin: 15px;
-    margin-left: 35px;
+    margin-left: -5%;
     display: flex;
     justify-content: center; /* Spread out the icons */
 }
