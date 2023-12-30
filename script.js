@@ -108,7 +108,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
         // Add icons to the paragraph
         iconWrapper.innerHTML = '<a href="https://example.com" target="_blank"><i class="fa fa-external-link"></i></a>' +
-            '<a href="https://github.com" target="_blank"><i class="fa fa-github"></i></a>';
+            '<a href="https://github.com" target="_blank"><i class="fa-brands fa-github"></i></a>';
 
         hoverParagraph.appendChild(iconWrapper);
 
