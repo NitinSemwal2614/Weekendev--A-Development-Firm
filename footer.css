@@ -121,6 +121,8 @@
 .footer-call-to-action-link-wrapper {
     margin-bottom: 0;
     margin-top: 10px;
+    display: inline-block;
+    margin-right: 10px; 
     color: #fff;
     text-decoration: none;
 }
@@ -183,15 +185,15 @@
 
 .footer-social {
     text-align: center;
-    margin-top: -90px;
-    margin-left: -40%;
+    margin-top: 150px;
+    margin-left: -90%;
 }
 
 .social-icons {
     list-style: none;
     padding: 0;
     margin: 15px;
-    margin-left: -5%;
+    margin-left: -2%; /*kgtdtes*/
     display: flex;
     justify-content: center; /* Spread out the icons */
 }
