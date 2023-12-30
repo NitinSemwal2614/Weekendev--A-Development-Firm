@@ -211,43 +211,7 @@
     color: #010718; /* Change to the desired hover color */
 }
 
-.footer-newsletter-form {
-    display: flex;
-    margin-top: 20px;
-}
-
-#emailInput {
-    padding: 10px;
-    flex: 1;
-    border: 1px solid #fff;
-    border-radius: 5px 0 0 5px;
-    color: #000; /* Change text color to black */
-}
-
-.dark#emailInput {
-    color: #fff;
-}
-
-.footer-newsletter-button {
-    background-color: #00465E;
-    color: #fff;
-    padding: 10px 15px;
-    border: 1px solid #fff;
-    border-radius: 0 5px 5px 0;
-    cursor: pointer;
-}
-
-.footer-newsletter-button:hover {
-    background-color: #fff;
-    color: #00465E;
-}
-
-.footer-social .footer-menu-name {
-    white-space: nowrap; /* Prevent text from wrapping to the next line */
-}
-
 /* Media Query For different screens */
-
 @media (max-width: 479px) {
     .footer-content {
         margin-left: auto;
@@ -305,7 +269,6 @@
 }
 
 /* Styles for screens with a maximum width of 600px */
-
 @media (max-width: 600px) {
     .footer-social {
         text-align: center;
